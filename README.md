@@ -13,6 +13,8 @@ En esta carpeta encontrarás todos los reports realizados en Power BI. Para inte
 
 [RMS Titanic Sinking Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjQ2NWFlNjYtZDZhZi00YWZlLTliNGQtMThiODE0YjhkZmVkIiwidCI6Ijk2MzM0ZWNkLTMwMDItNDI4ZC1hN2QzLTQzMDA0NTIzYmI2YyJ9)
 
+[Dashboard Clientes](https://app.powerbi.com/view?r=eyJrIjoiYzBiYTZkY2UtZjYwOC00OWQ5LThiMzEtMjU5NmI0NmVhZjc4IiwidCI6Ijk2MzM0ZWNkLTMwMDItNDI4ZC1hN2QzLTQzMDA0NTIzYmI2YyJ9)
+
 # ¡Disfruta y no te olvides de dejar una 🌟estrella🌟 si te gusta el proyecto!
 
 <!--
