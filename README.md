@@ -9,7 +9,7 @@
 
 En esta carpeta encontrarás todos los reports realizados en Power BI. Para interactuar con el dashboard, utiliza los siguientes enlaces que aterrizarán en Power BI Fabric:
 
-[Covid 19 Cases Analysis](https://app.powerbi.com/groups/me/reports/a4be75c2-33af-45f9-919f-780243daebde/754df6b30a0d04d8a3d1?redirectedFromSignup=1,1&experience=power-bi) (Covid dataset has been updated up until 2024)
+[Covid 19 Cases Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjliMWZjZWYtZmFjMy00ZDE0LWJlMDgtNDczMDc3YjYzZDZiIiwidCI6Ijk2MzM0ZWNkLTMwMDItNDI4ZC1hN2QzLTQzMDA0NTIzYmI2YyJ9&pageName=754df6b30a0d04d8a3d1) (Covid dataset has been updated up until 2024)
 
 [RMS Titanic Sinking Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjQ2NWFlNjYtZDZhZi00YWZlLTliNGQtMThiODE0YjhkZmVkIiwidCI6Ijk2MzM0ZWNkLTMwMDItNDI4ZC1hN2QzLTQzMDA0NTIzYmI2YyJ9)
 
